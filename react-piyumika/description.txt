@@ -1,0 +1,10 @@
+# Project: react-piyumika
+This is a new React project created using Vite. The project serves as a starter template for building modern web applications with React and Vite. Vite provides a fast development environment and optimized build process, making it ideal for React projects.
+
+## Features:
+- React 18
+- Vite for fast development and optimized builds
+- JavaScript and JSX support
+- Easy to extend and customize
+
+Enjoy building your React application with Vite!
